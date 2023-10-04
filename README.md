@@ -8,12 +8,12 @@ L'application permet de developper une application Swing 3 couches (MVC) permett
 
 # Création de 4 boutons pour choisir une action
 
-![projet1](./Eclipse/projet1-2.PNG)
+![projet1](./Eclipse/projet1_2.PNG)
 
 # Création de la préparation de commande
 
-![projet1](./Eclipse/projet1-3.PNG)
+![projet1](./Eclipse/projet1_3.PNG)
 
 # Création d'un ajout de Stock
 
-![projet1](./Eclipse/projet1-1.PNG)
+![projet1](./Eclipse/projet1_1.PNG)

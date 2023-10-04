@@ -1,0 +1,8 @@
+lait	10	3.0
+pomme	14	45.0
+kiwi	40	3.0
+fromage	40	5.0
+citron	5	4.0
+carlson	45	450000.0
+france	8	45.0
+charles	78	45.0

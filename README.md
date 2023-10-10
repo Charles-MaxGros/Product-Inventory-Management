@@ -17,3 +17,5 @@ L'application permet de developper une application Swing 3 couches (MVC) permett
 # Création d'un ajout de Stock
 
 ![projet1](./Eclipse/projet1_1.PNG)
+
+Equipe: Ryan

@@ -18,4 +18,6 @@ L'application permet de developper une application Swing 3 couches (MVC) permett
 
 ![projet1](./Eclipse/projet1_1.PNG)
 
-Equipe: Ryan
+# Équipe
+Rayan Kharroubi
+
